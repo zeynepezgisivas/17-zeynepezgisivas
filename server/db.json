@@ -1,0 +1,24 @@
+{
+  "localization": [
+    {
+      "id": "en",
+      "localizations": {
+        "home.title": "Star wars app",
+        "home.description": "Pokemons will be listed here",
+        "home.button": "Change Language",
+        "settings.title": "Settings screen",
+        "settings.description": "Settings screen description"
+      }
+    },
+    {
+      "id": "tr",
+      "localizations": {
+        "home.title": "Pokemon uygulaması",
+        "home.description": "Pokemonlar burada listelenir",
+        "home.button": "Dil değiştir",
+        "settings.title": "Ayarlar ekranı",
+        "settings.description": "Ayarlar ekranı açıklaması"
+      }
+    }
+  ]
+}

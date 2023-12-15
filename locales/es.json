@@ -1,0 +1,10 @@
+{
+  "home.title": "Aplicación Hopi",
+  "home.description": "Los productos se enumeran aquí en Hopi",
+  "settings.title": "Pantalla de Configuración",
+  "settings.description": "Descripción de la pantalla de configuración",
+  "home.button.en": "Inglés",
+  "home.button.tr": "Turco",
+  "home.button.ar": "Árabe",
+  "home.button.es": "Español"
+}
